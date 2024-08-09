@@ -20,4 +20,16 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Doc/GameGalaxyPPT.pptx</name>
+			<type>1</type>
+			<location>C:/Users/Sagar/OneDrive/Desktop/Project Synopsis/GameGalaxyPPT.pptx</location>
+		</link>
+		<link>
+			<name>Doc/Project Report.pdf</name>
+			<type>1</type>
+			<location>C:/Users/Sagar/OneDrive/Desktop/Final Sem Project Report/Project Report final_Shivam.pdf</location>
+		</link>
+	</linkedResources>
 </projectDescription>
