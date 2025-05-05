@@ -28,20 +28,21 @@
 
 ## 📁 Project Structure
 
+```plaintext
 GameGalaxy/
 ├── src/
-│ ├── application/ # Application utilities or launcher
-│ ├── database/ # JDBC connectivity for MySQL
-│ ├── gamejavaquiz/ # Java Quiz (Single Player)
-│ ├── gamepong/ # Paddle Game (Multiplayer)
-│ ├── gamesnake/ # Snake Game (Single Player)
-│ └── gametictactoe/ # Tic Tac Toe (Multiplayer)
-├── bin/ # Compiled classes
-├── .classpath # Eclipse/IDE config
-├── .project # Eclipse/IDE config
-├── .settings/ # IDE settings
-└── build.fxbuild # JavaFX build settings
-
+│   ├── application/         # Application utilities or launcher
+│   ├── database/            # JDBC connectivity for MySQL
+│   ├── gamejavaquiz/        # Java Quiz (Single Player)
+│   ├── gamepong/            # Paddle Game (Multiplayer)
+│   ├── gamesnake/           # Snake Game (Single Player)
+│   └── gametictactoe/       # Tic Tac Toe (Multiplayer)
+├── bin/                     # Compiled classes
+├── .classpath               # Eclipse/IDE config
+├── .project                 # Eclipse/IDE config
+├── .settings/               # IDE settings
+└── build.fxbuild            # JavaFX build settings
+```
 ---
 
 ## 🚀 How to Run
