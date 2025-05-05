@@ -47,8 +47,10 @@ GameGalaxy/
 
 ## 🚀 How to Run
 - Clone the Repository:
+  ```
   git clone https://github.com/yourusername/GameGalaxy.git
   cd GameGalaxy
+  ```
 
 - Set up MySQL and import the scores table.
 
