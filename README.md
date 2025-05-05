@@ -41,3 +41,19 @@ GameGalaxy/
 ├── .project # Eclipse/IDE config
 ├── .settings/ # IDE settings
 └── build.fxbuild # JavaFX build settings
+
+---
+
+## 🚀 How to Run
+- Clone the Repository:
+  git clone https://github.com/yourusername/GameGalaxy.git
+  cd GameGalaxy
+
+- Set up MySQL and import the scores table.
+
+- Run in IDE:
+
+  Open the project in Eclipse or IntelliJ.
+  Make sure JavaFX is configured.
+
+- Run the GameGalaxyMain.java file from src/application/.
