@@ -59,4 +59,4 @@ GameGalaxy/
   Open the project in Eclipse or IntelliJ.
   Make sure JavaFX is configured.
 
-- Run the GameGalaxyMain.java file from src/application/.
+- Run the Main.java file from src/application/.
